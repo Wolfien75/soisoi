@@ -6,5 +6,4 @@ int main() {
 
     cout << "Hello World!\n";
     //boo!
-    //cat!
 }
